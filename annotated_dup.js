@@ -9,9 +9,6 @@ var annotated_dup =
       [ "string", "namespacedeskflow_1_1string.html", [
         [ "CaselessCmp", "classdeskflow_1_1string_1_1CaselessCmp.html", "classdeskflow_1_1string_1_1CaselessCmp" ]
       ] ],
-      [ "client", "namespacedeskflow_1_1client.html", [
-        [ "HelloBack", "classdeskflow_1_1client_1_1HelloBack.html", "classdeskflow_1_1client_1_1HelloBack" ]
-      ] ],
       [ "platform", "namespacedeskflow_1_1platform.html", [
         [ "MSWindowsProcess", "classdeskflow_1_1platform_1_1MSWindowsProcess.html", "classdeskflow_1_1platform_1_1MSWindowsProcess" ]
       ] ],
@@ -125,6 +122,7 @@ var annotated_dup =
     [ "ChunkType", "structChunkType.html", "structChunkType" ],
     [ "Client", "classClient.html", "classClient" ],
     [ "ClientApp", "classClientApp.html", "classClientApp" ],
+    [ "ClientConfigDialog", "classClientConfigDialog.html", "classClientConfigDialog" ],
     [ "ClientInfo", "classClientInfo.html", "classClientInfo" ],
     [ "ClientListener", "classClientListener.html", "classClientListener" ],
     [ "ClientProxy", "classClientProxy.html", "classClientProxy" ],
@@ -140,10 +138,10 @@ var annotated_dup =
     [ "ClientProxyUnknown", "classClientProxyUnknown.html", "classClientProxyUnknown" ],
     [ "Clipboard", "classClipboard.html", "classClipboard" ],
     [ "ClipboardChunk", "classClipboardChunk.html", "classClipboardChunk" ],
-    [ "CommandProcess", "classCommandProcess.html", "classCommandProcess" ],
     [ "CondVar", "classCondVar.html", "classCondVar" ],
     [ "CondVarBase", "classCondVarBase.html", "classCondVarBase" ],
     [ "ConsoleLogOutputter", "classConsoleLogOutputter.html", "classConsoleLogOutputter" ],
+    [ "Coordinate", "structCoordinate.html", "structCoordinate" ],
     [ "CoreArgParser", "classCoreArgParser.html", "classCoreArgParser" ],
     [ "CoreArgs", "structCoreArgs.html", "structCoreArgs" ],
     [ "DaemonApp", "classDaemonApp.html", "classDaemonApp" ],
@@ -265,6 +263,7 @@ var annotated_dup =
     [ "ScreenSetupView", "classScreenSetupView.html", "classScreenSetupView" ],
     [ "ScreenUnavailableException", "classScreenUnavailableException.html", "classScreenUnavailableException" ],
     [ "ScrollRemainder", "structScrollRemainder.html", "structScrollRemainder" ],
+    [ "SearchWidget", "classSearchWidget.html", "classSearchWidget" ],
     [ "SecureListenSocket", "classSecureListenSocket.html", "classSecureListenSocket" ],
     [ "SecureSocket", "classSecureSocket.html", "classSecureSocket" ],
     [ "Server", "classServer.html", "classServer" ],

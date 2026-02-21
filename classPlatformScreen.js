@@ -1,6 +1,6 @@
 var classPlatformScreen =
 [
-    [ "PlatformScreen", "classPlatformScreen.html#aba9e75f26033c13529997ae310eef840", null ],
+    [ "PlatformScreen", "classPlatformScreen.html#a7993f9c29cfb31017e27b684e260b6cc", null ],
     [ "~PlatformScreen", "classPlatformScreen.html#a2f288569bd4751fa8c75b08ffc237b85", null ],
     [ "activeSides", "classPlatformScreen.html#a863946bd385fdb48f4613ab1c0f34ba3", null ],
     [ "canLeave", "classPlatformScreen.html#af1f24d0dd3a6351567e323a99e94340c", null ],
@@ -20,7 +20,7 @@ var classPlatformScreen =
     [ "fakeMouseButton", "classPlatformScreen.html#a8aa399e8a554c23555b552480e655d8f", null ],
     [ "fakeMouseMove", "classPlatformScreen.html#a8dda7dcea47792525240a11bcd486f01", null ],
     [ "fakeMouseRelativeMove", "classPlatformScreen.html#a9b2db025722e7b61c247aa75b823eef8", null ],
-    [ "fakeMouseWheel", "classPlatformScreen.html#afd0f02bc320731b63ff0bf145a423da3", null ],
+    [ "fakeMouseWheel", "classPlatformScreen.html#a48b99f214ac07346239fc6ac14d59b74", null ],
     [ "getActiveModifiers", "classPlatformScreen.html#af0e21c06ce09c33018808fb1b02c6c0e", null ],
     [ "getClipboard", "classPlatformScreen.html#a0a69cb71aa22405b41819ac09abaa23e", null ],
     [ "getCursorCenter", "classPlatformScreen.html#a744b9754082f1f65295d26e9fa59ac10", null ],
@@ -34,7 +34,6 @@ var classPlatformScreen =
     [ "isKeyDown", "classPlatformScreen.html#aedf76ddd96b4c9132c325f41d9471d6b", null ],
     [ "isPrimary", "classPlatformScreen.html#a631d98e1343f54fec14b64f4490e397f", null ],
     [ "leave", "classPlatformScreen.html#ad5b9db90101111f95742d3b1c0a47117", null ],
-    [ "mapClientScrollDirection", "classPlatformScreen.html#a395adf1076033b25c832ff03c0ab0776", null ],
     [ "openScreensaver", "classPlatformScreen.html#a82b824293078398f3722e1d163b66275", null ],
     [ "pollActiveGroup", "classPlatformScreen.html#a18e30907f0eb1df9bd08a40281257547", null ],
     [ "pollActiveModifiers", "classPlatformScreen.html#aeab0114a82ffdbf595128b0aacd4b8d9", null ],
@@ -52,5 +51,6 @@ var classPlatformScreen =
     [ "updateButtons", "classPlatformScreen.html#ab49aef2db78769f9f000da61275fc66b", null ],
     [ "updateKeyMap", "classPlatformScreen.html#a33f7a5a5569dfe2db604048ad0e4e813", null ],
     [ "updateKeyState", "classPlatformScreen.html#a0bcdee139982e2cac2c7303e6cd0fe2f", null ],
-    [ "warpCursor", "classPlatformScreen.html#a535ef2dc3db23517b0a82d6904cdb892", null ]
+    [ "warpCursor", "classPlatformScreen.html#a535ef2dc3db23517b0a82d6904cdb892", null ],
+    [ "s_scrollDelta", "classPlatformScreen.html#abfe6499eea8bd45294747dbb4a9ed5b0", null ]
 ];

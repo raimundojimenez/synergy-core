@@ -62,13 +62,13 @@ var hierarchy =
     [ "deskflow::server::Config", "classdeskflow_1_1server_1_1Config.html", null ],
     [ "deskflow::server::ConfigReadContext", "classdeskflow_1_1server_1_1ConfigReadContext.html", null ],
     [ "IDataSocket::ConnectionFailedInfo", "classIDataSocket_1_1ConnectionFailedInfo.html", null ],
+    [ "Coordinate", "structCoordinate.html", null ],
     [ "Settings::Core", "structSettings_1_1Core.html", null ],
     [ "CoreArgParser", "classCoreArgParser.html", null ],
     [ "CoreArgs", "structCoreArgs.html", null ],
     [ "Settings::Daemon", "structSettings_1_1Daemon.html", null ],
     [ "deskflow::KeyMap::Keystroke::Data", "uniondeskflow_1_1KeyMap_1_1Keystroke_1_1Data.html", null ],
     [ "ArchNetworkBSD::Deps", "structArchNetworkBSD_1_1Deps.html", null ],
-    [ "deskflow::client::HelloBack::Deps", "structdeskflow_1_1client_1_1HelloBack_1_1Deps.html", null ],
     [ "IPrimaryScreen::EiConnectInfo", "classIPrimaryScreen_1_1EiConnectInfo.html", null ],
     [ "XWindowsUtil::ErrorLock", "classXWindowsUtil_1_1ErrorLock.html", null ],
     [ "deskflow::gui::messages::Errors", "structdeskflow_1_1gui_1_1messages_1_1Errors.html", null ],
@@ -76,7 +76,11 @@ var hierarchy =
     [ "EventData", "classEventData.html", [
       [ "Chunk", "classChunk.html", [
         [ "ClipboardChunk", "classClipboardChunk.html", null ]
-      ] ]
+      ] ],
+      [ "Server::KeyboardBroadcastInfo", "classServer_1_1KeyboardBroadcastInfo.html", null ],
+      [ "Server::LockCursorToScreenInfo", "classServer_1_1LockCursorToScreenInfo.html", null ],
+      [ "Server::SwitchInDirectionInfo", "classServer_1_1SwitchInDirectionInfo.html", null ],
+      [ "Server::SwitchToScreenInfo", "classServer_1_1SwitchToScreenInfo.html", null ]
     ] ],
     [ "Event::EventFlags", "structEvent_1_1EventFlags.html", null ],
     [ "EventQueueTimer", "classEventQueueTimer.html", null ],
@@ -93,7 +97,6 @@ var hierarchy =
     [ "FunctionEventJob", "classFunctionEventJob.html", null ],
     [ "deskflow::KeyMap::Keystroke::Group", "structdeskflow_1_1KeyMap_1_1Keystroke_1_1Group.html", null ],
     [ "Settings::Gui", "structSettings_1_1Gui.html", null ],
-    [ "deskflow::client::HelloBack", "classdeskflow_1_1client_1_1HelloBack.html", null ],
     [ "Hotkey", "classHotkey.html", null ],
     [ "IPrimaryScreen::HotKeyInfo", "classIPrimaryScreen_1_1HotKeyInfo.html", null ],
     [ "IApp", "classIApp.html", [
@@ -272,7 +275,6 @@ var hierarchy =
       [ "XWindowsClipboardUCS2Converter", "classXWindowsClipboardUCS2Converter.html", null ],
       [ "XWindowsClipboardUTF8Converter", "classXWindowsClipboardUTF8Converter.html", null ]
     ] ],
-    [ "Server::KeyboardBroadcastInfo", "classServer_1_1KeyboardBroadcastInfo.html", null ],
     [ "KeyEntry", "structKeyEntry.html", null ],
     [ "IKeyState::KeyInfo", "classIKeyState_1_1KeyInfo.html", null ],
     [ "deskflow::KeyMap::KeyItem", "structdeskflow_1_1KeyMap_1_1KeyItem.html", null ],
@@ -283,7 +285,6 @@ var hierarchy =
     [ "deskflow::KeyMap::Keystroke", "classdeskflow_1_1KeyMap_1_1Keystroke.html", null ],
     [ "deskflow::languages::LanguageManager", "classdeskflow_1_1languages_1_1LanguageManager.html", null ],
     [ "Lock", "classLock.html", null ],
-    [ "Server::LockCursorToScreenInfo", "classServer_1_1LockCursorToScreenInfo.html", null ],
     [ "Log", "classLog.html", null ],
     [ "Settings::Log", "structSettings_1_1Log.html", null ],
     [ "XWindowsClipboard::MotifClipFormat", "classXWindowsClipboard_1_1MotifClipFormat.html", null ],
@@ -315,6 +316,7 @@ var hierarchy =
     [ "QDialog", null, [
       [ "AboutDialog", "classAboutDialog.html", null ],
       [ "ActionDialog", "classActionDialog.html", null ],
+      [ "ClientConfigDialog", "classClientConfigDialog.html", null ],
       [ "FingerprintDialog", "classFingerprintDialog.html", null ],
       [ "HotkeyDialog", "classHotkeyDialog.html", null ],
       [ "ScreenSettingsDialog", "classScreenSettingsDialog.html", null ],
@@ -338,7 +340,6 @@ var hierarchy =
       [ "MainWindow", "classMainWindow.html", null ]
     ] ],
     [ "QObject", null, [
-      [ "CommandProcess", "classCommandProcess.html", null ],
       [ "DaemonApp", "classDaemonApp.html", null ],
       [ "I18N", "classI18N.html", null ],
       [ "Settings", "classSettings.html", null ],
@@ -368,7 +369,8 @@ var hierarchy =
       ] ]
     ] ],
     [ "QWidget", null, [
-      [ "LogWidget", "classLogWidget.html", null ]
+      [ "LogWidget", "classLogWidget.html", null ],
+      [ "SearchWidget", "classSearchWidget.html", null ]
     ] ],
     [ "XWindowsClipboard::Reply", "classXWindowsClipboard_1_1Reply.html", null ],
     [ "InputFilter::Rule", "classInputFilter_1_1Rule.html", null ],
@@ -462,8 +464,6 @@ var hierarchy =
     [ "Stopwatch", "classStopwatch.html", null ],
     [ "StreamBuffer", "classStreamBuffer.html", null ],
     [ "StreamChunker", "classStreamChunker.html", null ],
-    [ "Server::SwitchInDirectionInfo", "classServer_1_1SwitchInDirectionInfo.html", null ],
-    [ "Server::SwitchToScreenInfo", "classServer_1_1SwitchToScreenInfo.html", null ],
     [ "SystemLogger", "classSystemLogger.html", null ],
     [ "Thread", "classThread.html", null ],
     [ "IEventQueue::TimerEvent", "classIEventQueue_1_1TimerEvent.html", null ],

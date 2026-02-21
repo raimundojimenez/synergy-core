@@ -1,6 +1,6 @@
 var classMSWindowsScreen =
 [
-    [ "MSWindowsScreen", "classMSWindowsScreen.html#a1d11dcb17137cd7850e8c39dd3cb853e", null ],
+    [ "MSWindowsScreen", "classMSWindowsScreen.html#a038c6c1e4cb6db6e07aebdf40ebd45e6", null ],
     [ "~MSWindowsScreen", "classMSWindowsScreen.html#a3eb0a27687fab4beded9e48c65b71ad7", null ],
     [ "activeSides", "classMSWindowsScreen.html#afa90fbdfd8819b92cd00ae0235904574", null ],
     [ "canLeave", "classMSWindowsScreen.html#a273da90310ba50e63e3654f8c6a83602", null ],
@@ -19,7 +19,7 @@ var classMSWindowsScreen =
     [ "fakeMouseButton", "classMSWindowsScreen.html#ae66913935fd283f2fcafd023cbcfcba0", null ],
     [ "fakeMouseMove", "classMSWindowsScreen.html#a9d102cc1b8c4971f83c007d0649f8784", null ],
     [ "fakeMouseRelativeMove", "classMSWindowsScreen.html#a000c21d039ad26f6665e0fe043c0f6b7", null ],
-    [ "fakeMouseWheel", "classMSWindowsScreen.html#ab32e21e2e6c0e15937d885ea9262bc9d", null ],
+    [ "fakeMouseWheel", "classMSWindowsScreen.html#ab2e1c07805c3334fe8225c79bb3764e4", null ],
     [ "getClipboard", "classMSWindowsScreen.html#aea93c7d6f0abd90b4231970c516fe6cf", null ],
     [ "getCursorCenter", "classMSWindowsScreen.html#a9532cf850b1933384b5b0b70374bdceb", null ],
     [ "getCursorPos", "classMSWindowsScreen.html#a701519233a9f85ee65a24f39c081fcea", null ],
